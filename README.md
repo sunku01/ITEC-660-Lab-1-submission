@@ -29,7 +29,10 @@ In this lab you will build a rock-paper-scissors game using JavaScript.
         1. Explain your design choices and how you used CSS to realize those changes.
 
         Answer
-        changed the background color of the 
+        changed the background color of the container and fontsize of the elements using background color and fontsize properties
+       changed the size of the button using width and height properties
+       changed fontsize of h1 elements using fontsize property
+       
 
         2. Include screenshots if needed.
 12. Submit your repository via github.
